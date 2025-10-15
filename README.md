@@ -1,14 +1,22 @@
-# Projeto Java 2025 
- 
-## Informa��es do sistema 
-- Nome do computador: LAPTOP-ACER 
-- Usu�rio: admin 
-- Diret�rio atual: C:\dev\leaflet_laravel 
-- Data e hora: 15/10/2025 11:33:18,27 
- 
-## Descri��o 
-Este projeto foi iniciado automaticamente com um script em Windows CMD. 
- 
-## Autor 
-Josimar Ribeiro 
- 
+# 🚀 Projeto Atualizado **15/10/2025 11:34:01** ⚙️
+
+
+<img width="300" src="https://cms.admin.containerize.com/templates/aspose/img/products/email/headers/aspose_email-for-java.svg" alt="BACKUP JAVA" style="border: 5px solid #333; border-radius: 10px;" />
+
+📅 Última atualização: **15/10/2025 11:34:01**
+
+Diretório atual: C:\dev\leaflet_laravel
+
+Hostname da máquina: LAPTOP-ACER
+
+---
+
+## 📌 Histórico
+Este projeto é atualizado automaticamente via script.
+
+✔️ Commits enviados diretamente para o repositório remoto
+✔️ Registro de data e hora no README.md
+
+---
+
+💻🧠✅✏️❌🔍📦
